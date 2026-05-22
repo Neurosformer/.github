@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security report
+    url: mailto:neurosformer@gmail.com
+    about: Please report security concerns privately by email.
