@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="asset/neurosformer-banner.png" alt="Neurosformer - Where Intelligence Takes Form. Knowledge | Tools | Agents | Workflows"/>
-</p>
-
 # Neurosformer
 
 **AI workflow intelligence for document-heavy, compliance-heavy, and decision-heavy industries.**
+
+<p align="center">
+  <img src="asset/neurosformer-banner.png" alt="Neurosformer - Where Intelligence Takes Form. Knowledge | Tools | Agents | Workflows"/>
+</p>
 
 Neurosformer builds secure AI systems that help organizations turn unstructured information into structured workflows, reviewable decisions, and auditable operations.
 
