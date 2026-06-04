@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="asset/neurosformer-banner.png" alt="Neurosformer - Where Intelligence Takes Form. Knowledge | Tools | Agents | Workflows"/>
+</p>
+
 # Neurosformer
 
 **AI workflow intelligence for document-heavy, compliance-heavy, and decision-heavy industries.**
